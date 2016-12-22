@@ -81,4 +81,4 @@ Other options for rendering Markdown include:
 - There are also a number of Google Chrome Extensions that will render Markdown files for you. For example, [Markdown Reader](https://chrome.google.com/webstore/detail/markdown-reader/gpoigdifkoadgajcincpilkjmejcaanc?hl=en), provides a simple rendering of a Markdown file (note it may differ slightly from the way GitHub would render the document). Once you've installed the Extension, you can drag + drop a `.md` file into a blank Chrome tab to view the formatted document. Double-click to view the raw code.
 
 ## Practice
-For some simple practice using Markdown skills, see [exercise-1](exercise-1) and [exercise-2](exercise-2).
+For some simple practice using Markdown skills, see [exercise-1](exercise-1) and [exercise-2](exercise-2). Note that you can fork and clone the repo (as described in [module 4](https://github.com/info201-w17/module4-git-basics)) to edit the code directly, or simply create and edit new `.md` files in Atom.
