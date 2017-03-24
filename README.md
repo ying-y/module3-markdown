@@ -66,13 +66,13 @@ In order to view the rendered version of your Markdown-formatted syntax, you nee
 
 However, it can be helpful to preview your rendered Markdown before uploading code. The best way to do this is to simple write your marked code in a text-editor that supports preview rendering, such as **Atom**.
 
-  - To preview what your rendered content will look like, simply open a Markdown file (`.md`) in Atom. Then use the [command palette](http://flight-manual.atom.io/getting-started/sections/atom-basics/#command-palette) (or the shortcut `ctrl-shift-m`) to toggle the **Markdown Preview**. And once this preview is open, it will automatically update to reflect any changes to the text!
+  - To preview what your rendered content will look like, simply open a Markdown file (`.md`) in VS Code. Then use the [command palette](https://code.visualstudio.com/docs/getstarted/userinterface#_command-palette) (or the shortcut `ctrl-shift-m`) to find the **Markdown: Open Preview to Side**. Once this preview is open, it will automatically update to reflect any changes to the text!
 
-  - Note that you can also use the command palette to **Toggle Github Style** for the Markdown preview; this will make the rendered preview look the same as it will when uploaded to GitHub!
+  <!-- - Note that you can also use the command palette to **Toggle Github Style** for the Markdown preview; this will make the rendered preview look the same as it will when uploaded to GitHub! -->
 
 Other options for rendering Markdown include:
 
-- Many editors (such as [Visual Studio Code](https://code.visualstudio.com/)) also include automatic Markdown rendering, or have extensions to provide that functionality.
+- Many editors (such as [Atom](https://atom.io/)) also include automatic Markdown rendering, or have extensions to provide that functionality. Atom makes it easy to _Toggle Github Style_ and make sure the rendered preview looks the same as it will when uploaded to GitHub.
 
 - Stand-alone programs such as [Macdown](http://macdown.uranusjr.com/) (Mac only) will also do the same work, often providing nicer looking editor windows.
 
@@ -81,4 +81,4 @@ Other options for rendering Markdown include:
 - There are also a number of Google Chrome Extensions that will render Markdown files for you. For example, [Markdown Reader](https://chrome.google.com/webstore/detail/markdown-reader/gpoigdifkoadgajcincpilkjmejcaanc?hl=en), provides a simple rendering of a Markdown file (note it may differ slightly from the way GitHub would render the document). Once you've installed the Extension, you can drag + drop a `.md` file into a blank Chrome tab to view the formatted document. Double-click to view the raw code.
 
 ## Practice
-For some simple practice using Markdown skills, see [exercise-1](exercise-1) and [exercise-2](exercise-2). Note that you can fork and clone the repo (as described in [module 4](https://github.com/info201-w17/module4-git-basics)) to edit the code directly, or simply create and edit new `.md` files in Atom.
+For some simple practice using Markdown skills, see [exercise-1](exercise-1) and [exercise-2](exercise-2). Note that you can fork and clone the repo (as described in [module 4](../../../module4-git-basics)) to edit the code directly, or simply create and edit new `.md` files in VS Code.
